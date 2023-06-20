@@ -8,7 +8,7 @@ Iniciando agora na area de programação, estudando Analise e desenvolvimento de
 
 ### Projeto
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexFranceS&repo=Tik-Tok-Project&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexFranceS&repo=BuzzSync-Project&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
