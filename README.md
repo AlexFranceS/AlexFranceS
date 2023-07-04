@@ -1,6 +1,6 @@
 ### Olá me chamo Alex France 👋
 
-Iniciando agora na area de programação, estudando Analise e desenvolvimento de Sistemas na Estácio, e muitos cursos e jornadas em outras instituições, pois o conhecimento sempre nos ajuda a evoluir nossa forma de pensamento.
+Iniciando agora na area de programação, estudando Analise e desenvolvimento de Sistemas na Estácio, muitos cursos e jornadas em outras instituições, pois o conhecimento sempre nos ajuda a evoluir nossa forma de pensamento, crescer profissionalmente e ter o grande deseo de melhorar a cada instante.
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
