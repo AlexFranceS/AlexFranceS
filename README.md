@@ -9,6 +9,7 @@ Iniciando agora na area de programação, estudando Analise e desenvolvimento de
 ### Projeto
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexFranceS&repo=BuzzSync-Project&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
 
 ### Linguagens utilizadas
 
@@ -19,8 +20,7 @@ Iniciando agora na area de programação, estudando Analise e desenvolvimento de
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/alexfrancedasilvapereira/)
 
 <div>
-   <a href="https://github.com/devemdobro">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
