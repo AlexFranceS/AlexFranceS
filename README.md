@@ -6,9 +6,6 @@ Iniciando agora na area de programação, estudando Analise e desenvolvimento de
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexFranceS&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Linguagens utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexFranceS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projeto
 
