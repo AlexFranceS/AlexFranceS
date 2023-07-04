@@ -6,14 +6,15 @@ Iniciando agora na area de programação, estudando Analise e desenvolvimento de
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexFranceS&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexFranceS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Projeto
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexFranceS&repo=BuzzSync-Project&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
 
-### Linguagens utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexFranceS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
@@ -21,7 +22,6 @@ Iniciando agora na area de programação, estudando Analise e desenvolvimento de
   <a href = "mailto:alexfrance.silva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <div>
    
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
